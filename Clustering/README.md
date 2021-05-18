@@ -11,4 +11,4 @@ El conjunto de datos contiene las siguientes entradas para cada planta observada
     <li>Ancho del pétalo</li>
 </ul>
 
-![](/img/Clustering.png)
+![](https://github.com/SMolina-H/Portafolio_Sergio/blob/main/img/Clustering.png)
