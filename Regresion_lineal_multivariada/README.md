@@ -15,4 +15,4 @@ Se contó con una base de datos que contiene las siguientes entradas de cada veh
     <li>Modelo (Model)</li>    
 </ul>
 
-![](/img/Regresion.png)
+![](https://github.com/SMolina-H/Portafolio_Sergio/blob/main/img/Regresion.png)
