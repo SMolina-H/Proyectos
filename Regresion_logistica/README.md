@@ -10,4 +10,4 @@ Se cuenta con una base de datos que cuenta con las siguientes entradas de cada a
     <li>Género (Gender)</li>    
 </ul>
 
-![](/img/Matriz_de_confusion_1.png)
+![](https://github.com/SMolina-H/Portafolio_Sergio/blob/main/img/Matriz_de_confusion_1.png)
